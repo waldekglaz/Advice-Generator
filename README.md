@@ -21,12 +21,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./Screenshot-advice.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Code](https://github.com/waldekglaz/Advice-Generator)
+- [Live](https://waldekglaz.github.io/Advice-Generator/)
 
 ## My process
 
